@@ -3,7 +3,8 @@
   "name"="Покори Воробьёвы горы!",
   "url"="http://pvg.mk.ru/",
   "date"=1663200000000,
-  "university"="МГУ"
+  "university"="МГУ",
+  "subj_id"=1
   "Videos"[
     "id"=1
     
@@ -25,7 +26,8 @@
   "name"="Росатом",
   "url"="https://olymp.mephi.ru/",
   "date"=1664496000000,
-  "university"="НИЯУ МИФИ"
+  "university"="НИЯУ МИФИ",
+  "subj_id"=1
   
 
 },
@@ -35,7 +37,8 @@
   "name"="Innopolis Open",
   "url"="https://dovuz.innopolis.university/io-maths/",
   "date"=1666310400000,
-  "university"="Университет Иннополис"
+  "university"="Университет Иннополис",
+  "subj_id"=1
   
 
 }

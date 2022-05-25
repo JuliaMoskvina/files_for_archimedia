@@ -3,7 +3,8 @@
   "name"="Наследники Левши",
   "url"="http://abitur71.tsu.tula.ru/olimp/",
   "date"=1665705600000,
-  "university"="ТГУ"
+  "university"="ТГУ",
+  "subj_id"=2
   
 
 },
@@ -13,7 +14,8 @@
   "name"="Национальная технологическая олимпиада",
   "url"="https://ntcontest.ru/",
   "date"=1668384000000,
-  "university"="Кружковое движение"
+  "university"="Кружковое движение",
+    "subj_id"=2
   
 
 },
@@ -24,6 +26,7 @@
   "url"="https://izumrud.urfu.ru/ru/",
   "date"=1670976000000,
   "university"="Уральский федеральный университет"
+  "subj_id"=2
   
 
 }

@@ -1,1 +1,99 @@
+{
+  "id"=1,
+  "name"="Наследники Левши",
+  "url"="http://abitur71.tsu.tula.ru/olimp/",
+  "date"=,
+  "university"="ТГУ"
+  
 
+},
+
+{
+  "id"=2,
+  "name"="Национальная технологическая олимпиада",
+  "url"="https://ntcontest.ru/",
+  "date"=,
+  "university"="Кружковое движение"
+  
+
+},
+
+{
+  "id"=3,
+  "name"="Многопрофильная олимпиада школьников  «Изумруд»",
+  "url"="https://izumrud.urfu.ru/ru/",
+  "date"=,
+  "university"="Уральский федеральный университет"
+  
+
+},
+
+{
+  "id"=4,
+  "name"="Бельчонок",
+  "url"="https://dovuz.sfu-kras.ru/abiturientu-sfu/olimpiady/belchonok/",
+  "date"=,
+  "university"="СФУ"
+  
+
+},
+
+{
+  "id"=5,
+  "name"="Робофест",
+  "url"="https://www.robofest.ru/olimpiada/",
+  "date"=,
+  "university"="МГУ"
+  
+
+},
+
+{
+  "id"=6,
+  "name"="Шаг в будущее",
+  "url"="http://olymp.bmstu.ru/",
+  "date"=,
+  "university"="МГТУ им. Н. Э. Баумана, МФТИ"
+  
+
+},
+
+{
+  "id"=7,
+  "name"="Газпром",
+  "url"="http://olympiad.gazprom.ru/",
+  "date"=,
+  "university"="МГТУ им. Н. Э. Баумана и др."
+  
+
+},
+
+{
+  "id"=8,
+  "name"="Ломоносов",
+  "url"="http://olymp.msu.ru/",
+  "date"=,
+  "university"="МГУ"
+  
+
+},
+
+{
+  "id"=9,
+  "name"="Росатом",
+  "url"="https://olymp.mephi.ru/rosatom/about",
+  "date"=,
+  "university"="НИЯУ МИФИ"
+  
+
+},
+
+{
+  "id"=10,
+  "name"="Высшая проба",
+  "url"="https://olymp.hse.ru/mmo/",
+  "date"=,
+  "university"="Высшая школа экономики"
+  
+
+},

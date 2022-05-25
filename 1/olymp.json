@@ -1,0 +1,97 @@
+{
+  "id"=1,
+  "name"="Покори Воробьёвы горы!",
+  "url"="http://pvg.mk.ru/",
+  "date"=,
+  "university"="МГУ"
+  
+
+},
+
+{
+  "id"=2,
+  "name"="Росатом",
+  "url"="https://olymp.mephi.ru/",
+  "date"=,
+  "university"="НИЯУ МИФИ"
+  
+
+},
+
+{
+  "id"=3,
+  "name"="Innopolis Open",
+  "url"="https://dovuz.innopolis.university/io-maths/",
+  "date"=,
+  "university"="Университет Иннополис"
+  
+
+},
+
+{
+  "id"=4,
+  "name"="Физтех",
+  "url"="http://olymp-online.mipt.ru/#section-subjects",
+  "date"=,
+  "university"="МФТИ"
+  
+
+},
+
+{
+  "id"=5,
+  "name"="Ломоносов",
+  "url"="http://olymp.msu.ru",
+  "date"=,
+  "university"="МГУ"
+  
+
+},
+
+{
+  "id"=6,
+  "name"="Формула Единства/Третье тысячелетие",
+  "url"="https://www.formulo.org/ru/olymp/",
+  "date"=,
+  "university"="СЗИУ РАНХиГС"
+  
+
+},
+
+{
+  "id"=7,
+  "name"="Высшая проба",
+  "url"="https://olymp.hse.ru/mmo/",
+  "date"=,
+  "university"="Высшая школа экономики"
+  
+
+},
+{
+  "id"=8,
+  "name"="Курчатов",
+  "url"="http://olimpiadakurchatov.ru/",
+  "date"=,
+  "university"="Курчатовским институт, МФТИ, МИФИ, СПБГУ"
+  
+
+},
+
+{
+  "id"=9,
+  "name"="Паруса надежды",
+  "url"="https://www.miit.ru/olympiads/sails-of-hope",
+  "date"=,
+  "university"="Московский государственный университет путей сообщения МИИТ"
+  
+
+},
+{
+  "id"=10,
+  "name"="Океан знаний",
+  "url"="https://www.dvfu.ru/admission/olympic-games-and-the-preparatory-courses/olympics/school-olympiad-ocean-of-knowledge/",
+  "date"=,
+  "university"="ФГАОУ ВПО Дальневосточный федеральный университет (ДВФУ)"
+  
+
+},

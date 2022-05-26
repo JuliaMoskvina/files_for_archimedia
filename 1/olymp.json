@@ -1,75 +1,76 @@
 {
-  "id"=1,
-  "name"="Покори Воробьёвы горы!",
-  "url"="http://pvg.mk.ru/",
-  "date"=1663200000000,
-  "university"="МГУ",
-  "subj_id"=1,
-  "Materials"=[
+  "id":1,
+  "name":"Покори Воробьёвы горы!",
+  "url":"http://pvg.mk.ru/",
+  "date":1663200000000,
+  "university":"МГУ",
+  "subj_id":1,
+  "Materials":[
     {
-      "id"=1,
-      "name"="tasks",
-      "content"="https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FArchimedia%2FPVG%202019-2020_отбор_блиц.pdf&name=PVG%202019-2020_отбор_блиц.pdf&uid=561943992&nosw=1"
+      "id":1,
+      "name":"tasks",
+      "content":"https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FArchimedia%2FPVG%202019-2020_отбор_блиц.pdf&name=PVG%202019-2020_отбор_блиц.pdf&uid=561943992&nosw=1"
   
     },
      {
-      "id"=2,
-      "name"="tasks",
-      "content"="https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FArchimedia%2Fpvg-2020-sol-zaoch-tvorch.pdf&name=pvg-2020-sol-zaoch-tvorch.pdf&uid=561943992&nosw=1"
+      "id":2,
+      "name":"tasks",
+      "content":"https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FArchimedia%2Fpvg-2020-sol-zaoch-tvorch.pdf&name=pvg-2020-sol-zaoch-tvorch.pdf&uid=561943992&nosw=1"
   
-    },
+    }
   ]
 },
 
 {
-  "id"=2,
-  "name"="Росатом",
-  "url"="https://olymp.mephi.ru/",
-  "date"=1664496000000,
-  "university"="НИЯУ МИФИ",
-  "subj_id"=1,
-  "Materials"=[
+  "id":2,
+  "name":"Росатом",
+  "url":"https://olymp.mephi.ru/",
+  "date":1664496000000,
+  "university":"НИЯУ МИФИ",
+  "subj_id":1,
+  "Materials":[
     {
-      "id"=1,
-      "name"="tasks",
-      "content"="https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FArchimedia%2F_otbor_rosatom_2021-22_matematika_10.pdf&name=_otbor_rosatom_2021-22_matematika_10.pdf&uid=561943992&nosw=1"
+      "id":1,
+      "name":"tasks",
+      "content":"https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FArchimedia%2F_otbor_rosatom_2021-22_matematika_10.pdf&name=_otbor_rosatom_2021-22_matematika_10.pdf&uid=561943992&nosw=1"
     },
      {
-      "id"=2,
-      "name"="tasks",
-      "content"="https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FArchimedia%2F_otbor_rosatom_2021-22_matematika_11.pdf&name=_otbor_rosatom_2021-22_matematika_11.pdf&uid=561943992&nosw=1"
+      "id":2,
+      "name":"tasks",
+      "content":"https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FArchimedia%2F_otbor_rosatom_2021-22_matematika_11.pdf&name=_otbor_rosatom_2021-22_matematika_11.pdf&uid=561943992&nosw=1"
     },
-     {"id"=3,
-      "name"="tasks",
-      "content"="https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FArchimedia%2Frosatom_2021-22_math_10.pdf&name=rosatom_2021-22_math_10.pdf&uid=561943992&nosw=1"
+     {"id":3,
+      "name":"tasks",
+      "content":"https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FArchimedia%2Frosatom_2021-22_math_10.pdf&name=rosatom_2021-22_math_10.pdf&uid=561943992&nosw=1"
     },
-    {"id"=4,
-      "name"="tasks",
-      "content"="https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FArchimedia%2Frosatom_2021-22_math_11_1.pdf&name=rosatom_2021-22_math_11_1.pdf&uid=561943992&nosw=1"
-    },
+    {"id":4,
+      "name":"tasks",
+      "content":"https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FArchimedia%2Frosatom_2021-22_math_11_1.pdf&name=rosatom_2021-22_math_11_1.pdf&uid=561943992&nosw=1"
+    }
    ]
-
+},  
+  
 
 {
-  "id"=3,
-  "name"="Innopolis Open",
-  "url"="https://dovuz.innopolis.university/io-maths/",
-  "date"=1666310400000,
-  "university"="Университет Иннополис",
-  "subj_id"=1,
-  "Materials"[
+  "id":3,
+  "name":"Innopolis Open",
+  "url":"https://dovuz.innopolis.university/io-maths/",
+  "date":1666310400000,
+  "university":"Университет Иннополис",
+  "subj_id":1,
+  "Materials":[
       {
-        "id"=1
-        "name"="tasks"
-        "content"="https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FArchimedia%2FTasks_1.pdf&name=Tasks_1.pdf&uid=561943992"
+        "id":1
+        "name":"tasks"
+        "content":"https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FArchimedia%2FTasks_1.pdf&name=Tasks_1.pdf&uid=561943992"
   
       },
       {
-        "id"=2
-        "name"="books"
-        "content"="https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FArchimedia%2FElementarnoe_vvedenie_v_teoriyu_veroyatnostey.pdf&name=Elementarnoe_vvedenie_v_teoriyu_veroyatnostey.pdf&uid=561943992&nosw=1"
+        "id":2
+        "name":"books"
+        "content":"https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FArchimedia%2FElementarnoe_vvedenie_v_teoriyu_veroyatnostey.pdf&name=Elementarnoe_vvedenie_v_teoriyu_veroyatnostey.pdf&uid=561943992&nosw=1"
   
-      },
+      }
       
   ]
   

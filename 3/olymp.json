@@ -1,15 +1,15 @@
 {
-  "id"=1,
-  "name"="Вузовско-академическая олимпиада по информатике",
-  "url"="https://sp.urfu.ru/vuzakadem/inform/",
-  "date"=1670284800000,
-  "university"="Институт математики и механики им. Н.Н. Красовского Уральского отделения Российской академии наук, УрФУ",
-   "subj_id"=3,
-  "Materials"=[
+  "id":1,
+  "name":"Вузовско-академическая олимпиада по информатике",
+  "url":"https://sp.urfu.ru/vuzakadem/inform/",
+  "date":1670284800000,
+  "university":"Институт математики и механики им. Н.Н. Красовского Уральского отделения Российской академии наук, УрФУ",
+   "subj_id":3,
+  "Materials":[
     {
-      "id"=1,
-      "name"="video",
-      "content"="https://www.youtube.com/watch?v=QCBCNaib1A8&list=PLSOiZQ9eZVzJP_5r_Nyp0t8M0gfJ2oT19"
+      "id":1,
+      "name":"video",
+      "content":"https://www.youtube.com/watch?v=QCBCNaib1A8&list=PLSOiZQ9eZVzJP_5r_Nyp0t8M0gfJ2oT19"
     }
   ]
   
@@ -17,17 +17,17 @@
 },
 
 {
-  "id"=2,
-  "name"="Московская олимпиада школьников по информатике",
-  "url"="https://mos-inf.olimpiada.ru/",
-  "date"=1667606400000,
-  "university"="МГУ",
-  "subj_id"=3,
-   "Materials"=[
+  "id":2,
+  "name":"Московская олимпиада школьников по информатике",
+  "url":"https://mos-inf.olimpiada.ru/",
+  "date":1667606400000,
+  "university":"МГУ",
+  "subj_id":3,
+   "Materials":[
     {
-      "id"=1,
-      "name"="tasks",
-      "content"="https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FArchimedia%2Fproblems.pdf&name=problems.pdf&uid=561943992&nosw=1"
+      "id":1,
+      "name":"tasks",
+      "content":"https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FArchimedia%2Fproblems.pdf&name=problems.pdf&uid=561943992&nosw=1"
     }
   ]
   
@@ -36,17 +36,17 @@
 },
 
 {
-  "id"=3,
-  "name"="Миссия выполнима.Твоё призвание – финансист!",
-  "url"="https://mission.fa.ru/",
-  "date"=1662681600000,
-  "university"="Финансовый университет при Правительстве Российской Федерации",
-  "subj_id"=3,
-  "Materials"=[
+  "id":3,
+  "name":"Миссия выполнима.Твоё призвание – финансист!",
+  "url":"https://mission.fa.ru/",
+  "date":1662681600000,
+  "university":"Финансовый университет при Правительстве Российской Федерации",
+  "subj_id":3,
+  "Materials":[
     {
-      "id"=1,
-      "name"="tasks",
-      "content"="http://www.fa.ru/org/div/gprstm/mission/SiteAssets/Pages/examples/Информатика%20-%20вариант%201%20-%202021-2022.pdf"
+      "id":1,
+      "name":"tasks",
+      "content":"http://www.fa.ru/org/div/gprstm/mission/SiteAssets/Pages/examples/Информатика%20-%20вариант%201%20-%202021-2022.pdf"
     }
   ]
   

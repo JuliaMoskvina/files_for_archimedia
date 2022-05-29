@@ -1,4 +1,5 @@
-{
+[
+  {
   "id":1,
   "name":"Наследники Левши",
   "url":"http://abitur71.tsu.tula.ru/olimp/",
@@ -53,7 +54,8 @@
       "content":"https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FArchimedia%2FZadanija_2021_Fizika_10-11.pdf&name=Zadanija_2021_Fizika_10-11.pdf&uid=561943992"
     }
   ]
+}
   
 
-}
+]
 

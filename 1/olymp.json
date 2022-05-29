@@ -61,14 +61,14 @@
   "subj_id":1,
   "Materials":[
       {
-        "id":1
-        "name":"tasks"
+        "id":1,
+        "name":"tasks",
         "content":"https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FArchimedia%2FTasks_1.pdf&name=Tasks_1.pdf&uid=561943992"
   
       },
       {
-        "id":2
-        "name":"books"
+        "id":2,
+        "name":"books",
         "content":"https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FArchimedia%2FElementarnoe_vvedenie_v_teoriyu_veroyatnostey.pdf&name=Elementarnoe_vvedenie_v_teoriyu_veroyatnostey.pdf&uid=561943992&nosw=1"
   
       }

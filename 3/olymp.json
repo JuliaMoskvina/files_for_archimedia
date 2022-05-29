@@ -1,4 +1,6 @@
-{
+
+[
+  {
   "id":1,
   "name":"Вузовско-академическая олимпиада по информатике",
   "url":"https://sp.urfu.ru/vuzakadem/inform/",
@@ -49,7 +51,8 @@
       "content":"http://www.fa.ru/org/div/gprstm/mission/SiteAssets/Pages/examples/Информатика%20-%20вариант%201%20-%202021-2022.pdf"
     }
   ]
+}
   
 
-}
+]
 

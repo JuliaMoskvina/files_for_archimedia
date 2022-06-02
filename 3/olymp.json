@@ -11,6 +11,7 @@
     {
       "id":1,
       "name":"video",
+      "u_name":"Видео-разбор задач",
       "content":"https://www.youtube.com/watch?v=QCBCNaib1A8&list=PLSOiZQ9eZVzJP_5r_Nyp0t8M0gfJ2oT19"
     }
   ]
@@ -29,6 +30,7 @@
     {
       "id":1,
       "name":"tasks",
+      "u_name":"Заключительный этап 2021-2022 (10-11 класс)",
       "content":"https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FArchimedia%2Fproblems.pdf&name=problems.pdf&uid=561943992&nosw=1"
     }
   ]
@@ -48,6 +50,7 @@
     {
       "id":1,
       "name":"tasks",
+      "u_name":"Задания 2021-2022",
       "content":"http://www.fa.ru/org/div/gprstm/mission/SiteAssets/Pages/examples/Информатика%20-%20вариант%201%20-%202021-2022.pdf"
     }
   ]

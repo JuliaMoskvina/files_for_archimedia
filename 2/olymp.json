@@ -6,7 +6,7 @@
   "date":1665705600000,
   "university":"ТГУ",
   "subj_id":2,
-  "Materials":[
+  "materials":[
     {
       "id":1,
       "name":"tasks",
@@ -25,7 +25,7 @@
   "date":1668384000000,
   "university":"Кружковое движение",
    "subj_id":2,
-  "Materials":[
+  "materials":[
     {
       "id":1,
       "name":"tasks",
@@ -50,7 +50,7 @@
   "date":1670976000000,
   "university":"Уральский федеральный университет",
   "subj_id":2,
-  "Materials":[
+  "materials":[
     {
       "id":1,
       "name":"tasks",
